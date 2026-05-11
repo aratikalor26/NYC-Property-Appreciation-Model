@@ -118,6 +118,6 @@ Three patterns held across all building types:
 ---
 
 ## Files in This Repo
-├── NYC-Property-Appreciation-Model.ipynb     # Full analysis notebook
-├── NYC-Property-Appreciation.pptx  # Final presentation slides
-└── README.md                       # This file
+- NYC-Property-Appreciation-Model.ipynb     # Full analysis notebook
+- NYC-Property-Appreciation.pptx  # Final presentation slides
+- README.md                       # This file
