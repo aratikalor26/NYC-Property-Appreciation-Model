@@ -1,10 +1,5 @@
 # NYC Residential Property Appreciation Model
 
-## Team
-Shreya Karki · Arati Kalor · Ayushman Shrestha · Chenbin Wu · Ali Adnan
-
----
-
 ## Business Question
 Can we predict whether a residential property will appreciate above a 
 meaningful threshold, based on neighborhood factors such as crime, 
